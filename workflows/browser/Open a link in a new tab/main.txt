@@ -1,0 +1,4 @@
+//{"link":"https://easyhotkey.com"}
+keyboard.down:ctrl,shift
+mouse.lclick
+keyboard.up:ctrl,shift
